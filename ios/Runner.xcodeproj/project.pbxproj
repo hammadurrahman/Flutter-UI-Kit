@@ -185,6 +185,7 @@
 					};
 				};
 			};
+97C146EB1CF9000F007C117D /* Frameworks */ = {
 			buildConfigurationList = 97C146E91CF9000F007C117D /* Build configuration list for PBXProject "Runner" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
